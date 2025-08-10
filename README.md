@@ -1,6 +1,6 @@
 <div align="center">
   
-# Pritesh Verma
+# Pritesh Jayprakash Verma
 ### GenAI Engineer | AI Agent Systems Specialist | Building the Future of Intelligent Automation
 
 </div>
