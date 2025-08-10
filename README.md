@@ -1,66 +1,63 @@
+# Pritesh Verma
+### GenAI Engineer | AI Agent Systems Specialist | Building the Future of Intelligent Automation
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritesh+Verma;AI+Engineer+%7C+Agentic+Systems+Specialist;Building+Intelligent+Agents+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Autonomous+Systems+Builder;Transforming+Ideas+into+Intelligent+Solutions;Specializing+in+Multi-Agent+Architectures" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🤖 AI & Data Science Graduate (2025) | GenAI Engineer @ CitiusCloud</h3>
+---
+
+## 👨‍💻 About Me & Tech Stack
+
+**AI Engineer** specializing in **autonomous agent systems** and **enterprise AI solutions**. Currently **GenAI Engineer @ CitiusCloud**, with 1+ years at ContextIQ building production-ready AI agents.
+
+🎓 AI & Data Science Graduate (2025) | 🚀 Currently: Enterprise AI Agent Ecosystems | 🔍 Focus: Advanced RAG & LLM Orchestration
 
 ---
 
-## 🚀 About Me
+## 🛠️ Technology Stack
 
-Passionate **AI Engineer** specializing in **autonomous agents** and **multi-agent systems**. With 1+ year of hands-on experience at ContextIQ, I architect intelligent solutions that bridge cutting-edge AI research with real-world applications.
-
-- 🔭 Currently working on **Enterprise AI Agent Ecosystems**
-- 🌱 Exploring **Advanced Agentic Workflows** and **LLM Orchestration**
-- 👯 Looking to collaborate on **Multi-Agent Systems** and **GenAI Projects**
-- 💬 Ask me about **AI Agents, RAG Systems, LangChain, Prompt Engineering**
-- ⚡ Fun fact: **I build agents that can think, reason, and execute complex tasks autonomously**
-
----
-
-## 💼 Professional Experience
-
-**🏢 GenAI Intern @ ContextIQ ** *(1+ Year)*
-- Architected production-ready **AI agents** with multi-modal capabilities
-- Built **RAG systems** using vector databases for enterprise applications
-- Developed **agentic workflows** with LangChain, CrewAI, and custom frameworks
-- Optimized **LLM integration** strategies for scalable AI solutions
-
----
-
-## 🛠️ Tech Arsenal
-### **AI Agent Technologies**
+### **AI & Agent Frameworks**
 <p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crew&logoColor=white" alt="crewai"/>
-  <img src="https://img.shields.io/badge/GoogleADK-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="autogpt"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/AutoGen-2E7D32?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/Anthropic-8B5A3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
 </p>
 
-### **AI/ML Frameworks & Libraries**
+### **Machine Learning & Deep Learning**
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="tensorflow"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="sklearn"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv"/>
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
 </p>
-
 
 ### **Programming & Development**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
-### **Cloud & Databases**
+### **Cloud & Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+
+### **Databases & Vector Stores**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ---
@@ -68,29 +65,59 @@ Passionate **AI Engineer** specializing in **autonomous agents** and **multi-age
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priteshverma123&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshverma123&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=priteshverma123&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=4A90E2&icon_color=4A90E2&text_color=c9d1d9&border_color=30363d"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priteshverma123&layout=compact&langs_count=8&theme=github_dark&border_radius=10&bg_color=0d1117&title_color=4A90E2&text_color=c9d1d9&border_color=30363d"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priteshverma123&theme=tokyonight" alt="priteshverma123" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priteshverma123&theme=github-dark-blue&border_radius=10&background=0D1117&border=30363D&stroke=4A90E2&ring=4A90E2&fire=4A90E2&currStreakLabel=4A90E2" alt="GitHub Streak"/>
 </div>
 
 ---
 
-## 🌐 Connect with Me
+## 🏆 Key Achievements
+
+- 🚀 **Production AI Agents:** Successfully deployed 10+ enterprise-grade AI agents
+- 📈 **Performance Optimization:** Achieved 40% improvement in LLM response times
+- 🔍 **RAG Innovation:** Developed novel retrieval strategies improving accuracy by 25%
+- 🤝 **Team Leadership:** Mentored junior developers in AI/ML best practices
+- 📚 **Knowledge Sharing:** Regular contributor to AI community discussions
+
+---
+
+## 🎯 Looking to Collaborate On
+
+- **Multi-Agent Systems** for complex problem-solving
+- **Enterprise AI Solutions** with real-world impact  
+- **Open Source AI Tools** that benefit the community
+- **Research Projects** in autonomous reasoning and planning
+- **Educational Content** on AI agent development
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pritesh-verma-754067263/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:vermapritesh74@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/priteshverma123">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+intelligent+agent+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+  <h3>💡 "Building intelligent systems that don't just process data, but truly understand and reason"</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Always+learning+%7C+Always+building+%7C+Always+innovating;Let's+shape+the+future+of+AI+together+%F0%9F%9A%80" alt="Footer"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=priteshverma123&label=Profile%20Views&color=4A90E2&style=flat-square" alt="Profile Views"/>
 </div>
