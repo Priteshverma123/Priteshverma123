@@ -1,5 +1,9 @@
+<div align="center">
+  
 # Pritesh Verma
 ### GenAI Engineer | AI Agent Systems Specialist | Building the Future of Intelligent Automation
+
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Autonomous+Systems+Builder;Transforming+Ideas+into+Intelligent+Solutions;Specializing+in+Multi-Agent+Architectures" alt="Typing SVG" />
@@ -24,6 +28,7 @@
   <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/AutoGen-2E7D32?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
   <img src="https://img.shields.io/badge/Anthropic-8B5A3C?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+  <img src="https://img.shields.io/badge/GoogleADK-2E7D32?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
 </p>
 
 ### **Machine Learning & Deep Learning**
