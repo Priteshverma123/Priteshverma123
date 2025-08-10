@@ -2,18 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pritesh+Verma;AI+Engineer+%7C+Agentic+Systems+Specialist;Building+Intelligent+Agents+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🤖 AI & Data Science Graduate (2025) | GenAI Intern @ ContextIQ AI</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priteshverma123&label=Profile%20views&color=00d9ff&style=flat" alt="priteshverma123" />
-  <img src="https://img.shields.io/github/followers/priteshverma123?label=Followers&style=social" alt="followers" />
-</p>
+<h3 align="center">🤖 AI & Data Science Graduate (2025) | GenAI Engineer @ CitiusCloud</h3>
 
 ---
 
 ## 🚀 About Me
 
-Passionate **AI Engineer** specializing in **autonomous agents** and **multi-agent systems**. With 1+ year of hands-on experience at ContextIQ AI, I architect intelligent solutions that bridge cutting-edge AI research with real-world applications.
+Passionate **AI Engineer** specializing in **autonomous agents** and **multi-agent systems**. With 1+ year of hands-on experience at ContextIQ, I architect intelligent solutions that bridge cutting-edge AI research with real-world applications.
 
 - 🔭 Currently working on **Enterprise AI Agent Ecosystems**
 - 🌱 Exploring **Advanced Agentic Workflows** and **LLM Orchestration**
@@ -25,7 +20,7 @@ Passionate **AI Engineer** specializing in **autonomous agents** and **multi-age
 
 ## 💼 Professional Experience
 
-**🏢 GenAI Intern @ ContextIQ AI** *(1+ Year)*
+**🏢 GenAI Intern @ ContextIQ ** *(1+ Year)*
 - Architected production-ready **AI agents** with multi-modal capabilities
 - Built **RAG systems** using vector databases for enterprise applications
 - Developed **agentic workflows** with LangChain, CrewAI, and custom frameworks
@@ -34,6 +29,13 @@ Passionate **AI Engineer** specializing in **autonomous agents** and **multi-age
 ---
 
 ## 🛠️ Tech Arsenal
+### **AI Agent Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crew&logoColor=white" alt="crewai"/>
+  <img src="https://img.shields.io/badge/GoogleADK-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="autogpt"/>
+</p>
 
 ### **AI/ML Frameworks & Libraries**
 <p align="left">
@@ -44,13 +46,6 @@ Passionate **AI Engineer** specializing in **autonomous agents** and **multi-age
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
 </p>
 
-### **AI Agent Technologies**
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=crew&logoColor=white" alt="crewai"/>
-  <img src="https://img.shields.io/badge/AutoGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="autogpt"/>
-</p>
 
 ### **Programming & Development**
 <p align="left">
@@ -66,7 +61,6 @@ Passionate **AI Engineer** specializing in **autonomous agents** and **multi-age
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis"/>
 </p>
 
 ---
